@@ -1,0 +1,44 @@
+{
+  "servers": [
+    {
+      "id": 1,
+      "name": "VidSrc",
+      "movieUrl": "https://vidsrc.net/embed/movie",
+      "tvUrl": "https://vidsrc.net/embed/tv",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "name": "Videasy",
+      "movieUrl": "https://player.videasy.net/movie",
+      "tvUrl": "https://player.videasy.net/tv",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "name": "Embedsu",
+      "movieUrl": "https://embed.su/embed/movie",
+      "tvUrl": "https://embed.su/embed/tv",
+      "enabled": true,
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "name": "Turbovid",
+      "movieUrl": "https://turbovid.eu/api/req/movie",
+      "tvUrl": "https://turbovid.eu/api/req/tv/",
+      "enabled": true,
+      "priority": 4
+    }
+  ],
+  "settings": {
+    "defaultServer": 1,
+    "autoFallback": true,
+    "maxRetries": 3,
+    "loadTimeout": 10000
+  },
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0.0"
+}
