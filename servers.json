@@ -31,7 +31,7 @@
       "tvUrl": "https://embed.su/embed/tv",
       "enabled": true,
       "priority": 3
-    },
+    }
   ],
   "settings": {
     "defaultServer": 1,
@@ -39,6 +39,6 @@
     "maxRetries": 3,
     "loadTimeout": 10000
   },
-  "lastUpdated": "2024-01-15T10:30:00Z",
+  "lastUpdated": "2025-07-12T10:30:00Z",
   "version": "1.0.0"
 }
