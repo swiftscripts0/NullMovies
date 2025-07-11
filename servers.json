@@ -1,4 +1,4 @@
-{
+ {
   "servers": [
     {
       "id": 1,
@@ -6,7 +6,7 @@
       "movieUrl": "https://turbovid.eu/api/req/movie",
       "tvUrl": "https://turbovid.eu/api/req/tv/",
       "enabled": true,
-      "priority": 4
+      "priority": 1
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "movieUrl": "https://vidsrc.net/embed/movie",
       "tvUrl": "https://vidsrc.net/embed/tv",
       "enabled": true,
-      "priority": 1
+      "priority": 2
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "movieUrl": "https://player.videasy.net/movie",
       "tvUrl": "https://player.videasy.net/tv",
       "enabled": true,
-      "priority": 2
+      "priority": 3
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "movieUrl": "https://embed.su/embed/movie",
       "tvUrl": "https://embed.su/embed/tv",
       "enabled": true,
-      "priority": 3
+      "priority": 4
     }
   ],
   "settings": {
