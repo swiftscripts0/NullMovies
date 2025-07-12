@@ -9,28 +9,36 @@
       "priority": 1
     },
     {
-      "id": 2,
-      "name": "Vidsrc",
-      "movieUrl": "https://vidsrc.net/embed/movie",
-      "tvUrl": "https://vidsrc.net/embed/tv",
-      "enabled": true,
-      "priority": 2
-    },
+     "id": 2,
+     "name": "VidsrcCX",
+     "movieUrl": "https://player.vidsrc.cx/stream/movie",
+     "tvUrl": "https://player.vidsrc.cx/stream/tv",
+     "enabled": true,
+     "priority": 2,
+    }
     {
       "id": 3,
-      "name": "Videasy",
-      "movieUrl": "https://player.videasy.net/movie",
-      "tvUrl": "https://player.videasy.net/tv",
+      "name": "Vidsrc ADS",
+      "movieUrl": "https://vidsrc.net/embed/movie",
+      "tvUrl": "https://vidsrc.net/embed/tv",
       "enabled": true,
       "priority": 3
     },
     {
       "id": 4,
-      "name": "Embedsu",
+      "name": "Videasy ADS",
+      "movieUrl": "https://player.videasy.net/movie",
+      "tvUrl": "https://player.videasy.net/tv",
+      "enabled": true,
+      "priority": 4
+    },
+    {
+      "id": 5,
+      "name": "Embedsu ADS",
       "movieUrl": "https://embed.su/embed/movie",
       "tvUrl": "https://embed.su/embed/tv",
       "enabled": true,
-      "priority": 4
+      "priority": 5
     }
   ],
   "settings": {
