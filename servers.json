@@ -1,5 +1,13 @@
- {
+{
   "servers": [
+    {
+      "id": 1,
+      "name": "VidsrcCO",
+      "movieUrl": "https://player.vidsrc.co/embed/movie",
+      "tvUrl": "https://player.vidsrc.co/embed/tv",
+      "enabled": true,
+      "priority": 1
+    },
     {
       "id": 2,
       "name": "Turbovid",
@@ -7,14 +15,6 @@
       "tvUrl": "https://turbovid.eu/api/req/tv/",
       "enabled": true,
       "priority": 2
-    },
-    {
-     "id": 1,
-     "name": "VidsrcCO",
-     "movieUrl": "https://player.vidsrc.co/embed/movie",
-     "tvUrl": "https://player.vidsrc.co/embed/tv",
-     "enabled": true,
-     "priority": 1
     },
     {
       "id": 3,
