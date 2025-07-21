@@ -11,8 +11,8 @@
     {
      "id": 2,
      "name": "VidsrcCX",
-     "movieUrl": "https://player.vidsrc.cx/stream/movie",
-     "tvUrl": "https://player.vidsrc.cx/stream/tv",
+     "movieUrl": "https://vidsrc.cx/movie",
+     "tvUrl": "https://vidsrc.cx/tv",
      "enabled": true,
      "priority": 2,
     }
