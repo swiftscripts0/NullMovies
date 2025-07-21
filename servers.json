@@ -10,12 +10,12 @@
     },
     {
      "id": 2,
-     "name": "VidsrcCX",
-     "movieUrl": "https://vidsrc.cx/movie",
-     "tvUrl": "https://vidsrc.cx/tv",
+     "name": "VidsrcCO",
+     "movieUrl": "https://player.vidsrc.co/embed/movie",
+     "tvUrl": "https://player.vidsrc.co/embed/tv",
      "enabled": true,
-     "priority": 2,
-    }
+     "priority": 2
+    },
     {
       "id": 3,
       "name": "Vidsrc ADS",
