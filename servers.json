@@ -2,10 +2,10 @@
   "servers": [
     {
       "id": 1,
-      "name": "VidsrcCO",
+      "name": "VidsrcCO (buggy)",
       "movieUrl": "https://player.vidsrc.co/embed/movie",
       "tvUrl": "https://player.vidsrc.co/embed/tv",
-      "enabled": false,
+      "enabled": true,
       "priority": 1
     },
     {
