@@ -2,9 +2,9 @@
   "servers": [
     {
       "id": 1,
-      "name": "VidsrcCO (buggy)",
-      "movieUrl": "https://player.vidsrc.co/embed/movie",
-      "tvUrl": "https://player.vidsrc.co/embed/tv",
+      "name": "Vidplus",
+      "movieUrl": "https://player.vidplus.to/embed/movie",
+      "tvUrl": "https://player.vidplus.to/embed/tv",
       "enabled": true,
       "priority": 1
     },
