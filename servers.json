@@ -26,27 +26,27 @@
     },
     {
       "id": 4,
-      "name": "Vidsrc ADS",
-      "movieUrl": "https://vidsrc.net/embed/movie",
-      "tvUrl": "https://vidsrc.net/embed/tv",
+      "name": "Videasy ADS",
+      "movieUrl": "https://player.videasy.net/movie",
+      "tvUrl": "https://player.videasy.net/tv",
       "enabled": true,
       "priority": 4
     },
     {
       "id": 5,
-      "name": "Videasy ADS",
-      "movieUrl": "https://player.videasy.net/movie",
-      "tvUrl": "https://player.videasy.net/tv",
+      "name": "Vidsrc ADS",
+      "movieUrl": "https://vidsrc.net/embed/movie",
+      "tvUrl": "https://vidsrc.net/embed/tv",
       "enabled": true,
       "priority": 5
     },
   ],
   "settings": {
-    "defaultServer": 3,
+    "defaultServer": 5,
     "autoFallback": true,
     "maxRetries": 3,
     "loadTimeout": 10000
   },
-  "lastUpdated": "2025-07-21T10:30:00Z",
-  "version": "1.0.0"
+  "lastUpdated": "2025-09-05T12:30:00Z",
+  "version": "1.0.1"
 }
