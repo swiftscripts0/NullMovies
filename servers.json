@@ -39,7 +39,7 @@
       "tvUrl": "https://vidsrc.net/embed/tv",
       "enabled": true,
       "priority": 5
-    },
+    }
   ],
   "settings": {
     "defaultServer": 5,
