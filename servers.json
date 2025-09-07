@@ -47,6 +47,14 @@
       "tvUrl": "https://vidsrc.net/embed/tv",
       "enabled": true,
       "priority": 6
+    },
+    {
+      "id": 7,
+      "name": "VidsrcCX ADS",
+      "movieUrl": "https://vidsrc.cx/embed/movie",
+      "tvUrl": "https://vidsrc.cx/embed/tv",
+      "enabled": true,
+      "priority": 7
     }
   ],
   "settings": {
