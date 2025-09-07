@@ -2,7 +2,7 @@
   "servers": [
     {
       "id": 1,
-      "name": "Vidplus",
+      "name": "Vidplus nope",
       "movieUrl": "https://player.vidplus.to/embed/movie",
       "tvUrl": "https://player.vidplus.to/embed/tv",
       "enabled": true,
