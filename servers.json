@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "name": "Vidjoy",
+      "name": "Vidjoy ADS",
       "movieUrl": "https://vidjoy.pro/embed/movie",
       "tvUrl": "https://vidjoy.pro/embed/tv",
       "enabled": true,
@@ -58,7 +58,7 @@
     }
   ],
   "settings": {
-    "defaultServer": 5,
+    "defaultServer": 7,
     "autoFallback": true,
     "maxRetries": 3,
     "loadTimeout": 10000
