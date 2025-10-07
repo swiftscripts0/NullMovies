@@ -18,47 +18,39 @@
     },
     {
       "id": 3,
-      "name": "Vidjoy ADS",
-      "movieUrl": "https://vidjoy.pro/embed/movie",
-      "tvUrl": "https://vidjoy.pro/embed/tv",
+      "name": "Turbovid",
+      "movieUrl": "https://turbovid.eu/api/req/movie",
+      "tvUrl": "https://turbovid.eu/api/req/tv/",
       "enabled": true,
       "priority": 3
     },
     {
       "id": 4,
-      "name": "Turbovid",
-      "movieUrl": "https://turbovid.eu/api/req/movie",
-      "tvUrl": "https://turbovid.eu/api/req/tv/",
+      "name": "Videasy ADS",
+      "movieUrl": "https://player.videasy.net/movie",
+      "tvUrl": "https://player.videasy.net/tv",
       "enabled": true,
       "priority": 4
     },
     {
       "id": 5,
-      "name": "Videasy ADS",
-      "movieUrl": "https://player.videasy.net/movie",
-      "tvUrl": "https://player.videasy.net/tv",
+      "name": "Vidsrc ADS",
+      "movieUrl": "https://vidsrc.net/embed/movie",
+      "tvUrl": "https://vidsrc.net/embed/tv",
       "enabled": true,
       "priority": 5
     },
     {
       "id": 6,
-      "name": "Vidsrc ADS",
-      "movieUrl": "https://vidsrc.net/embed/movie",
-      "tvUrl": "https://vidsrc.net/embed/tv",
-      "enabled": true,
-      "priority": 6
-    },
-    {
-      "id": 7,
       "name": "VidsrcCX ADS",
       "movieUrl": "https://vidsrc.cx/embed/movie",
       "tvUrl": "https://vidsrc.cx/embed/tv",
       "enabled": true,
-      "priority": 7
+      "priority": 6
     }
   ],
   "settings": {
-    "defaultServer": 7,
+    "defaultServer": 6,
     "autoFallback": true,
     "maxRetries": 3,
     "loadTimeout": 10000
